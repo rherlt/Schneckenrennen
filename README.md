@@ -1,4 +1,4 @@
 # Schneckenrennen
-Schneckenrennen aus der Java-Vorlesung
+Schneckenrennen of Java lecture
 
-Ich habe hier noch was geändert.
+I changed something
